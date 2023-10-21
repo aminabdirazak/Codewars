@@ -10,7 +10,7 @@ Examples (input -> output)
 
 function repeatStr (n, s) {
 
-    console.log(s.repeat(n))
+ return s.repeat(n)
   
   }
 
